@@ -1,4 +1,15 @@
 const poems = [
+	{"title":`Information is killing us`,
+	 "author": `Cooper Midroni`,
+	 "content:`
+	 - The internet makes us incapable of reaching consensus on important narratives.
+	 	- It seems we cannot come to agreement.
+	 - We must build a better
+	 	- We must create a better
+	 - future.
+	 	- life.`
+},
+
 	{"title":`the world is a sacred object`,
 "author":`kelsey chen`,
 "content":`
