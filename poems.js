@@ -1,42 +1,11 @@
 const poems = [
-	{"title":`the world is a sacred object`,
-"author":`kelsey chen`,
+	{"title":`the internet is killing us`,
+"author":`cooper midroni`,
 "content":`
-- the world
-    - all of it
-        - all that
-        - is
-            - exists
-                - is moved
-                    - is moving
-                        - breathes
-                            - has ever existed, including you
-- is
-    - is always
-        - is irrevocably
-- a sacred object
-    - a sacred thing
-        - something moving
-            - something waiting to be moved
-                - something awaiting dialogue
-                    - called into communion
-                        - a condensation of vital breath
-                            - anima
-                                - there
-                                    - here
-                                        - an immovably sacred object
-                                            - an immovably sacred object, and nothing is to be done to it.
-                                                - an immovably sacred object,
-                                                - and nothing
-                                                - is to be
-                                                - done about it.
-                                                    - done to it--
-                                                    - to seize it
-                                                        - to take it for yourself
-                                                            - to try and keep it
-                                                                - to try to grasp it
-                                                    - is to lose it.
-                                                        - is to lose yourself.`
+- The internet
+ - all this information
+- is killing us.
+ - will destroy us.`
 },
 	{"title":`the world is a sacred object`,
 "author":`kelsey chen`,
